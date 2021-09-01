@@ -1,0 +1,102 @@
+
+body{
+    background-color:#F9F9F9;
+}
+#profile
+{
+    border-radius: 50%;
+}
+.profile-div
+{
+    background-color: #476072;
+    image-resolution: 10px;
+}
+a{
+    color: #EEEEEE;
+}
+a:hover
+{
+    color: #EEEEEE;
+}
+.midle-content
+{
+    margin-left: 20px;
+    margin-top: 15px;
+    font: size 1px;
+    font-style: normal;
+}
+ .btncompose
+{
+    background-color:#01937C;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 200px;
+    border-radius: 05px;
+
+}
+.navbar{
+    background-color: #476072;
+    font-family: sans-serif;
+    
+}
+.lable
+{
+    display: inline-block;
+}
+#mainbtn{
+    background-color:#01937C;
+}
+.btn1{
+    background-color:#01937C ;
+    border-radius: 5px;
+    
+}
+.table1{
+    border:black;
+    margin: 10px;
+    align-content: center;
+    padding: auto;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    font-size: 20;
+}
+.table2{
+    border:black;
+    margin: 20px;
+    align-content: center;
+    padding: auto;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    font-size: 20;
+    
+
+}
+.table3{
+    border:black;
+    margin: 10px;
+    align-content: center;
+    padding: auto;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    font-size:20;
+}
+.table4{
+    border:black;
+    margin: 10px;
+    align-content:center;
+    padding: auto;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    font: size 20px;
+    text-align-last:center;
+}
+.refbtn{
+
+    border:black;
+    background-color: blue;
+}
+#menu{
+    background-color: rgba(61, 56, 56, 0.425);
+
+}
